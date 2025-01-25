@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="posts_screen_title">Duckit</string>
+    <string name="unlike">Unlike</string>
+    <string name="like">Like</string>
+    <string name="sign_in">Sign In</string>
+    <string name="dislike">Dislike</string>
+    <string name="error">Error</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="retry">Retry</string>
+    <string name="create_post">Create post</string>
+    <string name="back">Back</string>
+    <string name="headline">Headline</string>
+    <string name="submit">Submit</string>
+    <string name="create_post_screen_title">Create post</string>
+    <string name="image">Image</string>
+    <string name="pick_image">Pick image</string>
+</resources>
